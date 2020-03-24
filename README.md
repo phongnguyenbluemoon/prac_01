@@ -1,2 +1,2 @@
-# prac_01
+# practical
 JCU practical
